@@ -1,0 +1,26 @@
+{
+    // "restoreTerminals.terminals": [
+    //     {
+    //         "splitTerminals": [
+    //             {
+    //                 "name": "backend",
+    //                 "commands": [
+    //                     "cd wog",
+    //                     "npm run dev"
+    //                 ]
+    //             }
+    //         ]
+    //     },
+    //     {
+    //         "splitTerminals": [
+    //             {
+    //                 "name": "frontend",
+    //                 "commands": [
+    //                     "cd frontend",
+    //                     "npm start"
+    //                 ]
+    //             }
+    //         ]
+    //     }
+    // ]
+}
